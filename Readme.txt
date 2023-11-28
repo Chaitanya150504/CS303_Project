@@ -13,3 +13,14 @@ edited:
   sh.c
   user.h
   usys.S
+QUESTION 2
+added:
+  dproc.c
+  ps.c
+edited:
+  exec.c
+  Makefile
+  proc.c
+  syscall.c
+  sysproc.c
+  usys.s
