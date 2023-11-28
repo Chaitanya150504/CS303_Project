@@ -1,6 +1,18 @@
 # CS303_Project
 Editted files in respected question
 
+QUESTION 2
+added:
+  dproc.c
+  ps.c
+edited:
+  exec.c
+  Makefile
+  proc.c
+  syscall.c
+  sysproc.c
+  usys.s
+
 QUESTION 3 
 added: 
   history.h
@@ -13,14 +25,3 @@ edited:
   sh.c
   user.h
   usys.S
-QUESTION 2
-added:
-  dproc.c
-  ps.c
-edited:
-  exec.c
-  Makefile
-  proc.c
-  syscall.c
-  sysproc.c
-  usys.s
